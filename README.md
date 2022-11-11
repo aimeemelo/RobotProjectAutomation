@@ -8,11 +8,11 @@
 ## Tecnologias utilizadas
 
 <br/>
-• **Python** *(linguagem de desenvolvimento)*
+
 <br/>
 • **Robot Framework** *(Ferramenta de teste)*
 <br/>
-• **NPM** *(Gerenciador de Pacotes)*
+
 
 ## Sobre o Projeto
 Utilizando as ferramentas citadas acima, criar um teste automatizado no site: http://automationpractice.com :
